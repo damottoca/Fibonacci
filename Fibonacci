@@ -1,4 +1,4 @@
-object FibonacciComUmaVariavel {
+
         @JvmStatic
         fun main(args: Array<String>) {
             val n = 10 
